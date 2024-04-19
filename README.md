@@ -1,6 +1,6 @@
 Fraudulent E-Commerce Transactions 
 
-Project members: Roshni, Muneeb, Ria, Mahalel, Ricardo
+Project members: Mahalel, Roshni, Muneeb, Ria,Ricardo
 
 With two data sets merged, we filtered out the legitimate transactions to analyze the fraud transactions among a vast variety of categories: Age, transaction amount, payment method etc.
 
